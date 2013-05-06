@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["Michaelkjacoby@gmail.com"]
   gem.description   = %q{Fibonacci number Generator}
   gem.summary       = %q{Returns the nth value in the fibonacci sequence}
-  gem.homepage      = "https://github.com/michaeljacoby/Fibonacci"
+  gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
