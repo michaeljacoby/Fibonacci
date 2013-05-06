@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-The command Fibonacci.place(number) will generate the value at that point in the sequence.
+The command Fibon.place(number) will generate the value at that point in the sequence.
 
 ## Contributing
 
