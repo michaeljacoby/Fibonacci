@@ -1,6 +1,6 @@
 # Fibon
 
-TODO: Write a gem description
+Fibon is a simple Fibonacci number generator.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+The command Fibonacci.place(number) will generate the value at that point in the sequence.
 
 ## Contributing
 
