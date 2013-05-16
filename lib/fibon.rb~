@@ -7,8 +7,10 @@ module Fibon
 
   def self.check(a)
     value = false
+
     firstcheck = (5*(a**2))+4
     secondcheck = (5*(a**2))-4
+
     if (self.isPerfectSquare(firstcheck) == true) or (self.isPerfectSquare(secondcheck) == true)
       value = true
     else

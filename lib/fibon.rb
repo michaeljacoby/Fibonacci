@@ -29,5 +29,9 @@ module Fibon
     
     value
   end
+  
+  def nearest(x)
+
+  end
 
 end
